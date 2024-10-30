@@ -1,0 +1,40 @@
+body {
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+
+}
+#offLefthero {
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 33%;
+}
+#title{
+    width: 30%;
+    padding: 20px 50px 0px 20px;
+    color: #020202;
+    font-weight: bolder;
+}
+#subtitle{
+    width: 39%;
+    padding: 0px 50px 0px 20px;
+    color: #020202;
+    font-weight: normal;
+}
+#connectBtn{
+   font-family:"Open Sans", sans-serif;
+   background-color: #0ea5e9;
+   padding: 20px 30px;
+   color: white;
+   border: none;
+   display: block;
+   margin: 0px 20px;
+   
+}
+#underline{
+    text-decoration:3px underline #0ea5e9;
+}
