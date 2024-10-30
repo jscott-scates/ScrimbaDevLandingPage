@@ -1,3 +1,4 @@
+Link to practice site: https://jazzy-muffin-4160a3.netlify.app/
 # Getting Started
 Install the dependencies and run the project
 ```
